@@ -45,4 +45,4 @@ You can also find the password in the HTML code by using a curl command, followe
 
 ![OWoodflint_pw](Images/OWoodflint_pw.png)
 
-By inspecting metadata from a .jpg image, and conducting passive reconnaisance using open-source intelligence tools, we were able to amass confidential information around Oliver Woodflint's accounts, including his WiFi Network, geo-location, name, email address, password, and more. This challenge was done through TryHackMe.com.
+By inspecting metadata from a .jpg image, and conducting passive reconnaissance using open-source intelligence tools, we were able to amass confidential information around Oliver Woodflint's accounts, including his WiFi Network, geo-location, name, email address, password, and more. This challenge was done through TryHackMe.com.
