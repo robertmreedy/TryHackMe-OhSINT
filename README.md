@@ -39,10 +39,10 @@ Finally, let's take a look at the [WordPress site](https://oliverwoodflint.wordp
 
 Upon inspecting the page, we find Oliver Woodflint's password in plaintext as an HTML element: `pennYDr0pper.!`
 
-![OWoodflint_wp](Images/OWoodflint_pw2.png)
+![OWoodflint_pw2](Images/OWoodflint_pw2.png)
 
 You can also find the password in the HTML code by using a curl command, followed by a grep command:
 
-![OWoodflint_wp](Images/OWoodflint_pw.png)
+![OWoodflint_pw](Images/OWoodflint_pw.png)
 
 By inspecting metadata from a .jpg image, and conducting passive reconnaisance using open-source intelligence tools, we were able to amass confidential information around Oliver Woodflint's accounts, including his WiFi Network, geo-location, name, email address, password, and more. This challenge was done through TryHackMe.com.
