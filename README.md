@@ -1,5 +1,5 @@
 # TryHackMe OhSINT Challenge
-What information can you possible get with just one photo?
+What information can you possibly get with just one photo?
 
 ![WindowsXP Image](Images/WindowsXP.jpg)
 
@@ -13,7 +13,7 @@ Once exiftool has been installed, run the following command to retrieve the meta
 
 ![exiftool_output](Images/exiftool_output.png)
 
-Under the Copyright results, we see the creator of this image is assocaited with OWoodflint. Let's give this a Google search with quotations around the name:
+Under the Copyright results, we see the creator of this image is assocaited with _OWoodflint_. Let's give this a Google search with quotations around the name:
 
 ![OWoodflint_google](Images/OWoodflint_google.png)
 
@@ -45,4 +45,4 @@ You can also find the password in the HTML code by using a curl command, followe
 
 ![OWoodflint_pw](Images/OWoodflint_pw.png)
 
-By inspecting metadata from a .jpg image, and conducting passive reconnaissance using open-source intelligence tools, we were able to amass confidential information around Oliver Woodflint's accounts, including his WiFi Network, geo-location, name, email address, password, and more. This challenge was done through TryHackMe.com.
+By inspecting metadata from a .jpg image, and conducting passive and active reconnaissance using open-source intelligence tools, we were able to amass confidential information around Oliver Woodflint's accounts, including his WiFi Network, geo-location, name, email address, password, and more. This challenge was done through TryHackMe.com.
